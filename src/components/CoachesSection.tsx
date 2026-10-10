@@ -80,10 +80,10 @@ export const CoachesSection: React.FC = () => {
                 </div>
 
                 <div>
-                  <h4 className="font-display font-bold text-xl text-white uppercase tracking-wide group-hover:text-[#19D66B] transition-colors">
+                  <h4 className="font-display font-black text-xl text-white uppercase tracking-wider group-hover:text-[#19D66B] transition-colors">
                     {coach.name}
                   </h4>
-                  <div className="text-xs text-emerald-400 font-semibold mt-0.5">
+                  <div className="text-xs text-emerald-400 font-semibold mt-0.5 tracking-wide">
                     {coach.role}
                   </div>
                 </div>

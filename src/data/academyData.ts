@@ -156,40 +156,40 @@ export const JOURNEY_STEPS = [
 
 export const COACHES: Coach[] = [
   {
-    id: "coach-hazik",
-    name: "Coach Hazik [Academy Founder / Lead Coach Placeholder]",
+    id: "head-coach-hazik",
+    name: "Coach Hazik Abbasi",
     role: "Technical Director & Founder",
     bio: "Passionate football mentor committed to player-centric development, personal discipline, and fostering technical brilliance from the first step.",
     specialties: ["Curriculum Architecture", "Technical Ball Mastery", "Player Mentorship"],
     qualifications: ["Coaching Licensure & Credentials Placeholder (Subject to confirmation)"],
-    isPlaceholder: true,
+    isPlaceholder: false,
   },
   {
     id: "coach-youth",
-    name: "[Youth Development Specialist - Placeholder]",
-    role: "Lead Youth Coach (Ages 5–10)",
-    bio: "Specialist in early age motor coordination, engaging game-based drills, and creating a positive, inspiring training atmosphere for children.",
+    name: "Coach Yahya Abbasi",
+    role: "Youth Development Specialist (Ages 5–10)",
+    bio: "Dedicated specialist in youth motor coordination, engaging game-based drills, and creating an inspiring, disciplined training atmosphere for young players.",
     specialties: ["Motor Coordination", "Age-Appropriate Pedagogy", "Confidence Building"],
     qualifications: ["Youth Coaching Certification Placeholder"],
-    isPlaceholder: true,
+    isPlaceholder: false,
   },
   {
     id: "coach-kinetic",
-    name: "[Speed & Performance Coach - Placeholder]",
+    name: "Coach Shafay Abbasi",
     role: "Head of Athletic Conditioning",
     bio: "Focuses on biomechanics, deceleration safety, explosive acceleration, and injury prevention tailored specifically for developing adolescent bodies.",
     specialties: ["Sprint Mechanics", "Core Stability", "Agility Kinetics"],
     qualifications: ["Sports Science & Strength Certification Placeholder"],
-    isPlaceholder: true,
+    isPlaceholder: false,
   },
   {
     id: "coach-tactical",
-    name: "[Tactical & Match Analyst Coach - Placeholder]",
+    name: "Coach Muntaha Abbasi",
     role: "Tactics & Match Play Coordinator",
     bio: "Experienced in positional game management, defensive block coordination, and cultivating spatial intelligence in adolescent footballers.",
     specialties: ["Positional Play", "Video Tactical Review", "Match Play Simulation"],
     qualifications: ["Tactical Coaching Badge Placeholder"],
-    isPlaceholder: true,
+    isPlaceholder: false,
   }
 ];
 
