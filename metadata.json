@@ -1,0 +1,8 @@
+{
+  "name": "Hazik’s Footstep with Ball | Premium Football Academy",
+  "description": "An ambitious football academy dedicated to developing football ability, confidence, discipline, teamwork, and love for the game. Every great player starts with a step.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
